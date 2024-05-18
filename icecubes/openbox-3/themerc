@@ -1,0 +1,87 @@
+!! Other options
+border.width: 1
+padding.width: 3
+padding.height: 3
+
+!! All windows
+window.label.text.justify: center
+window.handle.width: 0
+window.client.padding.width: 0
+
+!! Active windows
+window.active.title.bg: Flat Solid
+window.active.title.bg.color: #2a2a2a
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #ffffff
+
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #9a9a9a
+
+window.active.button.pressed.bg: Flat Solid
+window.active.button.pressed.bg.color: #538349
+window.active.button.pressed.image.color: #ffffff
+
+window.active.button.hover.bg: Flat Solid
+window.active.button.hover.bg.color: #538349
+window.active.button.hover.image.color: #ffffff
+
+window.active.border.color: #4a4a4a
+
+!! Inactive windows
+window.inactive.title.bg: Flat Solid
+window.inactive.title.bg.color: #1a1a1a
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #aaaaaa
+
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #818181
+
+window.inactive.button.pressed.bg: Flat Solid
+window.inactive.button.pressed.bg.color: #538349
+window.inactive.button.pressed.image.color: #ffffff
+
+window.inactive.button.hover.bg: Flat Solid
+window.inactive.button.hover.bg.color: #538349
+window.inactive.button.hover.image.color: #ffffff
+
+window.inactive.border.color: #3a3a3a
+
+!! Menus
+menu.title.bg: Flat Solid
+menu.title.bg.color: #333333
+menu.title.text.color: #ffffff
+menu.title.text.justify: Center
+
+menu.separator.color: #5a5a5a
+menu.separator.width: 1
+menu.separator.padding.width: 3
+menu.separator.padding.height: 4
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #222222
+menu.items.text.color: #dddddd
+menu.items.disabled.text.color: #aaaaaa
+
+menu.items.active.bg: Flat Solid
+menu.items.active.bg.color: #538349
+menu.items.active.text.color: #ffffff
+menu.items.active.disabled.text.color: #aaaaaa
+
+menu.border.color: #5a5a5a
+
+!! OSD
+osd.bg: Flat Solid
+osd.bg.color: #222222
+
+osd.label.bg: Parentrelative
+osd.label.text.color: #dddddd
+
+osd.hilight.bg: Flat Solid
+osd.hilight.bg.color: #538349
+
+osd.unhilight.bg: Flat Solid
+osd.unhilight.bg.color: #333333
+
+osd.border.color: #5a5a5a
