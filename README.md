@@ -4,7 +4,7 @@ A dark theme with a hint of blue for Openbox
 
 ## Installation
 
-```
+```sh
 $ git clone https://gitlab.com/frostalicious/icecubes.git ~/.local/share/themes/icecubes
 ```
 
